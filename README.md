@@ -1,3 +1,5 @@
 # teste
 testando 123
-#lalalalal
+* comando git push
+* comando git pull
+* comando git fetch
